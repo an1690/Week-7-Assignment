@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+    color: #6666B9;
+    font-size: 19px;
+}
+
+h1 {
+    text-align: left;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.input-class {
+    font-size: 19px;
+}
+
+.submit-class {
+    font-size: 19px;
+}
